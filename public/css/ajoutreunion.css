@@ -1,0 +1,24 @@
+body {overflow-x: hidden;line-height: 1.2;color: #4e4b50;font-size: 12px;font-family: "Arial", sans-serif;}
+html, body, div, span, applet, object, iframe,h1,h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,
+b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption,input, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;list-style: none;}
+a{display: block ,; }
+img{max-width: 100%}
+/*********************************************Header**********************************************************/
+header{ margin-top: 20px; margin-bottom:60px; background-color:white;}
+.nav-link {color:black; font-size:16px; margin-right:5px; margin-left:35px}
+header .glyphicon {padding-left:116px}
+.list-inline>li>a:hover{color:#337ab7;}
+
+
+/*********************************************Body**********************************************************/
+/*body{background-color:#e9f4f8; }*/
+.form-group{padding-left:200px;padding-bottom: 5px}
+.control-label{padding-right: 10px;width:30%}
+.formc{width:60%;}
+select.input-lg {height: 21px;line-height: 46px; padding-top: 0px;padding-left: 2px; font-size: 15px; padding-bottom: 2px;}
+h1{padding-top:40px;padding-bottom: 40px;text-align:center;padding-right: 100px;font-family: arial black}
+.bouton{text-align: center;padding-right: 100px }
+.ajt{margin-right: 10px}
